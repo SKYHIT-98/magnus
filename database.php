@@ -1,5 +1,5 @@
 <?php
-$dbhost ='localhost';
+$dbhost ='remotemysql.com';
 $dbuser = 'root';
 $dbpass = '';
 $db='magnus';
